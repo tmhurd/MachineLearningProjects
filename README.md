@@ -5,3 +5,5 @@ Terri Hurd Breast Cancer Prediction App:  https://colab.research.google.com/driv
 TerBot Chatbot: https://home.pandorabots.com/dash/graph/terbot
 
 Tableau Dashboard with Data Summaries of Sample Sales Data from Public Data Set:  https://public.tableau.com/app/profile/terri2038/viz/InsightsfromSampleSalesData/Dashboard1
+
+Tableau Dashboard of Health Concerns and Rankings by State (U.S.): https://public.tableau.com/app/profile/terri2038/viz/HealthConcernsandRankingsbyStateintheU_S_/Dashboard1#1
