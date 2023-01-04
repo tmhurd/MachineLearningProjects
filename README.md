@@ -14,7 +14,9 @@ https://www.credly.com/badges/1be53bb7-8782-40b6-a98f-4e3afd7e91a6/public_url
 
 PYTHON-BASED PROJECTS:
 
-- Terri Hurd Breast Cancer Prediction App:  https://colab.research.google.com/drive/1A3qjpreqEZHMR3QlOJS3d3Jr2nQZYNnY?usp=sharing
+- (Google Colab) Terri Hurd Breast Cancer Prediction App:  https://colab.research.google.com/drive/1A3qjpreqEZHMR3QlOJS3d3Jr2nQZYNnY?usp=sharing
+
+- (Kaggle) Comparison of predictive algorithms on a heart disease data set, with graphical summaries:  https://www.kaggle.com/terrihurd/algorithm-comparison-heart-disease-data/edit
 
 
 R-BASED PROJECTS:
