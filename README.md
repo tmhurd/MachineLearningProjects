@@ -14,7 +14,7 @@ https://www.credly.com/badges/1be53bb7-8782-40b6-a98f-4e3afd7e91a6/public_url
 
 PYTHON-BASED PROJECTS:
 
-- (Google Colab) Terri Hurd Breast Cancer Prediction App:  https://colab.research.google.com/drive/1A3qjpreqEZHMR3QlOJS3d3Jr2nQZYNnY?usp=sharing
+- (Google Colab) Terri Hurd Breast Cancer Prediction App:  Uses Random Forest Classifier algorithm to predict the likelihood that a breast cancer biopsy sample is malignant:  https://colab.research.google.com/drive/1A3qjpreqEZHMR3QlOJS3d3Jr2nQZYNnY?usp=sharing
 
 - (Kaggle) Comparison of predictive algorithms on a heart disease data set, with graphical summaries:  https://www.kaggle.com/terrihurd/algorithm-comparison-heart-disease-data/edit
 
@@ -26,7 +26,7 @@ R-BASED PROJECTS:
 
 ARTIFICIAL INTELLIGENCE MARK-UP LANGUAGE (AIML) and Natural Language Processing (NLP) PROJECTS:
 
-- TerBot Chatbot: https://home.pandorabots.com/dash/graph/terbot
+- TerBot Chatbot: Presents different computer science career options.  (Type anything to begin chatting.) https://home.pandorabots.com/dash/graph/terbot
 
 
 TABLEAU DATA VISUALIZATIONS:
