@@ -28,6 +28,7 @@ ARTIFICIAL INTELLIGENCE MARK-UP LANGUAGE (AIML) and Natural Language Processing 
 
 - TerBot Chatbot: Presents different computer science career options.  (Type anything to begin chatting.) https://home.pandorabots.com/dash/graph/terbot
 
+- Video Demo of CoppeliaSim Disaster Recovery Robot (Hosted on Panopto):  https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b57da34e-ae69-4d15-a905-aeaf013d8e83
 
 TABLEAU DATA VISUALIZATIONS:
 
