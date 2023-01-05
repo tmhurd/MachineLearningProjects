@@ -24,7 +24,7 @@ R-BASED PROJECTS:
 -
 
 
-ARTIFICIAL INTELLIGENCE MARK-UP LANGUAGE (AIML) and Natural Language Processing (NLP) PROJECTS:
+MACHINE LEARNING, ARTIFICIAL INTELLIGENCE MARK-UP LANGUAGE (AIML), and Natural Language Processing (NLP) PROJECTS:
 
 - TerBot Chatbot: Presents different computer science career options.  (Type anything to begin chatting.) https://home.pandorabots.com/dash/graph/terbot
 
