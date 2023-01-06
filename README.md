@@ -19,9 +19,8 @@ PYTHON-BASED PROJECTS:
 - (Kaggle) Comparison of predictive algorithms on a heart disease data set, with graphical summaries:  https://www.kaggle.com/terrihurd/algorithm-comparison-heart-disease-data/edit
 
 
-R-BASED PROJECTS:
-
--
+R-LANGUAGE PROJECTS:
+- R-Notebook that predicts the price of a diamond based on carat weight: [DiamondPrediction.docx](https://github.com/tmhurd/MachineLearningProjects/files/10356593/DiamondPrediction.docx)
 
 
 MACHINE LEARNING, ARTIFICIAL INTELLIGENCE MARK-UP LANGUAGE (AIML), and Natural Language Processing (NLP) PROJECTS:
