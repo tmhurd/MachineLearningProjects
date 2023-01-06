@@ -8,12 +8,9 @@
 <img width="162" alt="Screen Shot 2022-01-18 at 12 00 32 PM" src="https://user-images.githubusercontent.com/29231138/210910453-63d70479-2e4f-4043-adb3-5cd41f9a4fca.png">
 
 <h2 align="center">
-  Terri Hurd 
+  Terri Hurd - 2023
 </h2>
 
-<h3 align="center">
-  2023
-</h3>
 
 </p>
 <br/>
