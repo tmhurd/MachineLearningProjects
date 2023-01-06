@@ -2,9 +2,9 @@
   Machine Learning and Data Projects
 </h1>
 
-<h2 align="center">
-  Terri Hurd 2023
-</h2>
+<h3 align="center">
+  Terri Hurd - 2023
+</h3>
 
 <p align="center"> 
 <img width="368" alt="Screenshot 2023-01-05 at 8 18 36 PM" src="https://user-images.githubusercontent.com/29231138/210910329-a0c464c3-def7-4e08-937f-2df1d2c67108.png">
