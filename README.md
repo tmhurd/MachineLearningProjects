@@ -5,7 +5,7 @@
 
 <p align="center"> 
 <img width="368" alt="Screenshot 2023-01-05 at 8 18 36 PM" src="https://user-images.githubusercontent.com/29231138/210910329-a0c464c3-def7-4e08-937f-2df1d2c67108.png">
-<img width="162" alt="Screen Shot 2022-01-18 at 12 00 32 PM" src="https://user-images.githubusercontent.com/29231138/210910453-63d70479-2e4f-4043-adb3-5cd41f9a4fca.png">
+<img width="162" alt="Screen Shot 2022-01-18 at 12 00 32 PM" src="https://github.com/tmhurd/MachineLearningProjects/blob/main/THurd.jpg?raw=true">
 
 <h2 align="center">
   Terri Hurd - 2024
